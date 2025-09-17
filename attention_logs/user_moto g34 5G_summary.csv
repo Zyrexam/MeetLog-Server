@@ -1,0 +1,13 @@
+timestamp,attentive_percent,avg_temp,avg_humidity,avg_light,avg_co2,door_status,motion_status,productivity_A,productivity_E,productivity_MPS,suggestion,graph
+2025-09-08T17:08:34.994279,55.4,35.1,79.9,70.6,1142.0,Open,Inactivity,55.4,0.0,44.32,"📊 Ambient Report:
+- Temperature: 35.1°C
+- Humidity: 79.9%
+- Light: 70.6
+- CO₂: 1142 ppm
+
+👀 Attention:
+Your attentive percent was 55.4%.
+
+💡Suggestion:
+- Recommend typing on laptop or taking notes to boost attentiveness.
+- Suggest moving to a better-ventilated, cooler space.",summary_reports/ambient_moto g34 5G_bc7dbd.png

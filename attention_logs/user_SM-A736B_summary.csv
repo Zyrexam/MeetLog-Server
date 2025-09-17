@@ -1,0 +1,25 @@
+timestamp,attentive_percent,avg_temp,avg_humidity,avg_light,avg_co2,door_status,motion_status,productivity_A,productivity_E,productivity_MPS,suggestion,graph
+2025-09-08T17:08:33.007182,40.0,35.1,79.9,70.6,1142.0,Open,Inactivity,40.0,0.0,32.0,"📊 Ambient Report:
+- Temperature: 35.1°C
+- Humidity: 79.9%
+- Light: 70.6
+- CO₂: 1142 ppm
+
+👀 Attention:
+Your attentive percent was 40.0%.
+
+💡Suggestion:  
+- Recommend presenting while sitting or standing and taking notes to increase attention.  
+- Move to a better-ventilated, cooler, and brighter space.",summary_reports/ambient_SM-A736B_31c06b.png
+2025-09-10T13:09:29.689897,100.0,35.1,79.9,70.6,1142.0,Open,Inactivity,100.0,0.0,80.0,"📊 Ambient Report:
+- Temperature: 35.1°C
+- Humidity: 79.9%
+- Light: 70.6
+- CO₂: 1142 ppm
+
+👀 Attention:
+Your attentive percent was 100.0%.
+
+💡Suggestion:
+- Sustain current focus with light reinforcement, such as standing and presenting.
+- Move to a better-ventilated and cooler space.",summary_reports/ambient_SM-A736B_e813ca.png

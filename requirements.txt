@@ -1,0 +1,9 @@
+Flask
+numpy
+xgboost
+requests
+websockets
+pandas
+openai
+paramiko
+matplotlib

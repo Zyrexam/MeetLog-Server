@@ -1,0 +1,13 @@
+timestamp,attentive_percent,avg_temp,avg_humidity,avg_light,avg_co2,door_status,motion_status,productivity_A,productivity_E,productivity_MPS,suggestion,graph
+2025-09-08T17:08:34.286700,23.7,35.1,79.9,70.6,1142.0,Open,Inactivity,23.7,0.0,18.96,"📊 Ambient Report:
+- Temperature: 35.1°C
+- Humidity: 79.9%
+- Light: 70.6
+- CO₂: 1142 ppm
+
+👀 Attention:
+Your attentive percent was 23.7%.
+
+💡Suggestion:
+- Recommend presenting while sitting, typing on laptop, and writing on board to improve attentiveness.
+- Move to a better-ventilated, cooler space for improved conditions.",summary_reports/ambient_moto g45 5G_c18b7c.png
